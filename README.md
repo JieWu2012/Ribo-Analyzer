@@ -3,8 +3,7 @@
 [![DOI](https://zenodo.org/badge/383824144.svg)](https://doi.org/10.5281/zenodo.15048364
         
         
-        
-        )
+
 
 This code is for calculating the relative codon occupancy in the analysis of ribosome profiling data. 
 
