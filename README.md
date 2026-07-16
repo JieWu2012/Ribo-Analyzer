@@ -12,4 +12,8 @@ This code is for calculating the relative codon occupancy in the analysis of rib
 Codon_occupancy_cal.sh hg38_CDS_example.fa Mapped.sam
 
 
-This code is under continual development and further updates will be posted here. 
+## Citation
+
+This repository contains the code used to analyze the data presented in the following paper:
+
+Sharma, P., Wu, J., Nilges, B. S. & Leidel, S. A. (2021). [Humans and other commonly used model organisms are resistant to cycloheximide-mediated biases in ribosome profiling experiments](https://www.nature.com/articles/s41467-021-25411-y). *Nature Communications*, 12, 5094.
