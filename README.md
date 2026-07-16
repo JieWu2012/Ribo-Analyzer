@@ -1,6 +1,6 @@
 # Ribo-Analyzer
 
-[![DOI](https://zenodo.org/badge/383824144.svg)](https://doi.org/10.5281/zenodo.15048364
+https://doi.org/10.5281/zenodo.15048364
         
         
 
